@@ -1,9 +1,5 @@
 [My Computer]
-<<<<<<< HEAD
-My Computer = "192.168.0.100"
-=======
-My Computer = "192.168.10.54"
->>>>>>> 127a6200321cc9fa0f5d404872319a4bb0504fc4
+My Computer = "127.0.0.1"
 
 [RT CompactRIO Target]
 RT CompactRIO Target = "10.1.78.2"
