@@ -133,7 +133,11 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="ImageSizeConvert.vi" Type="VI" URL="../ImageSizeConvert.vi"/>
-		<Item Name="Untitled 1.vi" Type="VI" URL="../../../../Desktop/Untitled 1.vi"/>
+		<Item Name="Intent.vi" Type="VI" URL="../Intent.vi"/>
+		<Item Name="LittleTiming.vi" Type="VI" URL="../LittleTiming.vi"/>
+		<Item Name="Handle WOTMotor Speeds.vi" Type="VI" URL="../Handle WOTMotor Speeds.vi"/>
+		<Item Name="WOT.vi" Type="VI" URL="../WOT.vi"/>
+		<Item Name="RingFinger.vi" Type="VI" URL="../RingFinger.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
@@ -672,10 +676,7 @@ DirectoryIndex index.htm
 			<Item Name="Score and Rank Target Objects.vi" Type="VI" URL="../2014 Target Detection/Score and Rank Target Objects.vi"/>
 			<Item Name="Compute DistanceToTarget.vi" Type="VI" URL="../2014 Target Detection/Compute DistanceToTarget.vi"/>
 			<Item Name="Compute Target Distances.vi" Type="VI" URL="../2014 Target Detection/Compute Target Distances.vi"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
+			<Item Name="NiceTimer.vi" Type="VI" URL="../NiceTimer.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
